@@ -2,7 +2,7 @@
 	{
 		"title": "NSF Average Dwell Time by NSF and Directorate, FY 2001 - FY 2011",
 		"description": "An text/xml file containing FY 2001 through FY 2013 NSF Average Dwell Time by NSF and Directorate.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -35,7 +35,7 @@
 	{
 		"title": "NSF Award Search Web API",
 		"description": "The NSF Award Search web API provides a web API interface to the Research.gov's Research Spending and Results data, which provides NSF research award in"format"ion from 2007.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"nsf",
@@ -64,7 +64,7 @@
 {
 		"title": "NSF Budget History by Account from FY 1951",
 		"description": "National Science Foundation text/xml file containing NSF budget history by account from FY 1951",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"science and engineering",
 		"research and education",
@@ -97,7 +97,7 @@
 	{
 		"title": "NSF Calendar",
 		"description": "An Events Calendar shows upcoming events, NSF-related congressional hearings, National Science Board (NSB) and other meetings and more.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"events",
@@ -125,7 +125,7 @@
 	{
 		"title": "NSF Chief FOIA Officer Report for 2009",
 		"description": "Annual Freedom of In"format"ion Act (FOIA) Officer Report for 2009 describing steps NSF has taken to apply the presumption of openness, ensure NSF has an effective system for responding to requests, increase proactive disclosures, greater utilize technology, and reduce backlogs and improve timeliness in responding to requests.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests"
@@ -150,7 +150,7 @@
 	{
 		"title": "NSF Chief FOIA Officer Report  for 2010",
 		"description": "Annual Freedom of In"format"ion Act (FOIA) Officer Report for 2010 describing steps NSF has taken to apply the presumption of openness, ensure NSF has an effective system for responding to requests, increase proactive disclosures, greater utilize technology, and reduce backlogs and improve timeliness in responding to requests.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests"
@@ -175,7 +175,7 @@
 			{
 		"title": "NSF Chief FOIA Officer Report March 2011 -- March 2012",
 		"description": "Annual Freedom of In"format"ion Act (FOIA) Officer Report for 2012 describing steps NSF has taken to apply the presumption of openness, ensure NSF has an effective system for responding to requests, increase proactive disclosures, greater utilize technology, and reduce backlogs and improve timeliness in responding to requests.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests"
@@ -200,7 +200,7 @@
 	{
 		"title": "NSF Chief FOIA Officer Report March 2012 -- March 2013",
 		"description": "Annual Freedom of In"format"ion Act (FOIA) Officer Report for 2013 describing steps NSF has taken to apply the presumption of openness, ensure NSF has an effective system for responding to requests, increase proactive disclosures, greater utilize technology, and reduce backlogs and improve timeliness in responding to requests.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests"
@@ -225,7 +225,7 @@
 	{
 		"title": "NSF Chief FOIA Officer Report March 2013 -- March 2014",
 		"description": "Annual Freedom of In"format"ion Act (FOIA) Officer Report for 2014 describing steps NSF has taken to apply the presumption of openness, ensure NSF has an effective system for responding to requests, increase proactive disclosures, greater utilize technology, and reduce backlogs and improve timeliness in responding to requests.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests"
@@ -250,7 +250,7 @@
 	{
 		"title": "NSF Collaboration With Other Federal Agencies",
 		"description": "A list of NSF's programs that are conducted in partnership with other federal agencies.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"programs",
@@ -277,7 +277,7 @@
 	{
 		"title": "NSF Conference Report for FY12",
 		"description": "OMB Memorandum M-12-12 requires federal agencies to report by January 31st of each year, in"format"ion on all agency-sponsored conferences from the previous year where the net expenses for each single conference were in excess of $100,000. This report is also required to include the agency head's waiver for any single conference with net conference expenses that exceeded $500,000.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"conferences",
@@ -303,7 +303,7 @@
 	{
 		"title": "NSF Data Quality Standards",
 		"description": "NSF in"format"ion quality guidelines designed to fulfill the OMB guidelines.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"data quality
@@ -329,7 +329,7 @@
 	{
 		"title": "NSF Detailed Conference Cost Report - FY 2012",
 		"description": "NSF Detailed Conference Cost Report - FY 2012",
-		"tkeyword": [
+		"keyword": [
 		"national science foundation",
 		"nsf",
 		"conference"
@@ -354,7 +354,7 @@
 	{
 		"title": "NSF Directorate and Office Advisory Committees",
 		"description": "General in"format"ion about and links for NSF's Directorate and Office Advisory Committees and Topic Specific Advisory Committees.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"advisory committees"
@@ -379,7 +379,7 @@
 	{
 		"title": "NSF Early and Later Career Principal Investigators' (PIs') Count and Funding Rates",
 		"description": "An text/xml file containing Count and Funding Rates for National Science Foundation (NSF) Early and Later Career Principal Investigators (PIs).",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -412,7 +412,7 @@
 {
 		"title": "NSF e-Gov Content Inventory",
 		"description": "An inventory of the content that NSF makes available on its website.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"e-gov content",
@@ -438,7 +438,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 1997 through September 30, 1998",
 		"description": "This file contains the National Science Foundation's (NSF's) 1998 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 1998. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -464,7 +464,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 1998 through September 30, 1999",
 		"description": "This file contains the National Science Foundation's 1999 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 1999. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -490,7 +490,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 1999 through September 30, 2000",
 		"description": "This file contains the National Science Foundation's (NSF's) 2000 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2000. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -516,7 +516,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2000 through September 30, 2001",
 		"description": "This file contains the National Science Foundation's (NSF's) 2001 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2001. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -542,7 +542,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2001 through September 30, 2002",
 		"description": "This file contains the National Science Foundation's (NSF's) 2002 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2002. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -568,7 +568,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2002 through September 30, 2003",
 		"description": "This file contains the National Science Foundation (NSF) 2003 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2003. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -594,7 +594,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2003 through September 30, 2004",
 		"description": "This file contains the National Science Foundation (NSF)'s 2004 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2004. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -620,7 +620,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2004 through September 30, 2005",
 		"description": "This file contains the National Science Foundation's 2005 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2005. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -646,7 +646,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2005 through September 30, 2006",
 		"description": "This file contains the National Science Foundation's 2006 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2006. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -672,7 +672,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2006 through September 30, 2007",
 		"description": "This file contains the National Science Foundation's 2007 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2007. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -698,7 +698,7 @@
 		{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2007 through September 30, 2008",
 		"description": "This file contains the National Science Foundation's 2008 FOIA Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2008. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -724,7 +724,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2008 through September 30, 2009",
 		"description": "Statistical in"format"ion on the number of FOIA requests received and processed by NSF in FY09, response times for FOIA requests, the number of appeals received, and other statistics on NSF's FOIA program.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -750,7 +750,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2009 through September 30, 2010",
 		"description": "This file contains the National Science Foundation's (NSF's) 2010 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2010. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -776,7 +776,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2010 through September 30, 2011",
 		"description": "This file contains the National Science Foundation's (NSF's) 2011 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2011. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -802,7 +802,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2011 through September 30, 2012",
 		"description": "This file contains the National Science Foundation's (NSF's) 2012 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2012. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -828,7 +828,7 @@
 	{
 		"title": "NSF Freedom of In"format"ion Act Report for October 1, 2012 through September 30, 2013",
 		"description": "This file contains the National Science Foundation's (NSF's) FY2013 Freedom of In"format"ion Act (FOIA) Annual Report. The report provides detailed in"format"ion regarding the number and type of FOIA cases we processed in FY 2012. It also includes data regarding time and costs associated with processing these cases.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"FOIA requests",
@@ -854,7 +854,7 @@
 	{
 		"title": "NSF Funding Rates by Principal Investigator (PI) Demographic",
 		"description": "An text/xml file containing a history of National Science Foundation NSF Funding Rates per Fiscal Year (FY) with Principal Investigator (PI) Demographics.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -886,7 +886,7 @@
 	{
 		"title": "NSF FY 2009 Agency Financial Report (AFR)",
 		"description": "Provides financial management and program performance in"format"ion for FY 2009 to demonstrate accountability to NSF's stakeholders and the American public. The AFR focuses on financial management and accountability.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -912,7 +912,7 @@
 	{
 		"title": "NSF FY 2009 Annual Performance Report  (APR)",
 		"description": "One of the agency's reports focusing on agency performance and accountability in"format"ion, the APR includes the results of NSF's FY09 annual  performance goals and a discussion of NSF's new performance assessment and evaluation framework.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -941,7 +941,7 @@
 	{
 		"title": "NSF FY 2009 Performance and Financial Highlights",
 		"description": "One of the reports prepared by NSF to demonstrate the agency's accountability to stakeholders and the American public, this report features key in"format"ion from the FY 2009 Agency Financial Report and FY 2009 Annual Performance Report.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -968,7 +968,7 @@
 	{
 		"title": "NSF FY 2010 Agency Financial Report (AFR)",
 		"description": "Provides financial management and program performance in"format"ion for FY2010 to demonstrate accountability to our stakeholders and the American public. The AFR focuses on financial management and accountability.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -994,7 +994,7 @@
 	{
 		"title": "NSF FY 2010 Annual Performance Report (APR)",
 		"description": "One of the agency's reports focusing on agency performance and accountability in"format"ion, the APR includes the results of NSF's FY10 annual  performance goals and a discussion of NSF's new performance assessment and evaluation framework.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -1023,7 +1023,7 @@
 	{
 		"title": "NSF FY 2010 Performance and Financial Highlights",
 		"description": "One of the reports prepared by NSF to demonstrate the agency's accountability to stakeholders and the American public, this report summarizes key in"format"ion from the AFR and APR for FY2010.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -1050,7 +1050,7 @@
 	{
 		"title": "NSF FY 2011 Agency Financial Report (AFR)",
 		"description": "Provides financial management and program performance in"format"ion for FY 2011 to demonstrate accountability to our stakeholders and the American public. The AFR focuses on financial management and accountability.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -1076,7 +1076,7 @@
 	{
 		"title": "NSF FY 2011 Annual Performance Report (APR)",
 		"description": "One of the agency's reports focusing on agency performance and accountability in"format"ion, the APR includes the results of NSF's FY11 annual  performance goals and a discussion of NSF's new performance assessment and evaluation framework.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -1105,7 +1105,7 @@
 	{
 		"title": "NSF FY 2011 Performance and Financial Highlights",
 		"description": "One of the reports prepared by NSF to demonstrate the agency's accountability to stakeholders and the American public, this report summarizes key in"format"ion from the AFR and APR for FY2011.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -1132,7 +1132,7 @@
 	{
 		"title": "NSF FY 2012 Agency Financial Report (AFR)",
 		"description": "Provides financial management and program performance in"format"ion for FY 2012 to demonstrate accountability to our stakeholders and the American public. The AFR focuses on financial management and accountability.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -1158,7 +1158,7 @@
 	{
 		"title": "NSF FY 2012 Budget Request: Performance In"format"ion",
 		"description": "Provides program performance in"format"ion for FY 2012 to demonstrate accountability to our stakeholders and the American public. This document focuses on performance requirements, goals, and results.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -1185,7 +1185,7 @@
 	{
 		"title": "NSF FY 2012 Budget Request: Additional Performance In"format"ion",
 		"description": "Provides detailed program performance in"format"ion for FY 2012 to demonstrate accountability to our stakeholders and the American public. This document focuses on performance in"format"ion specific to NSF's science and research directorates.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -1212,7 +1212,7 @@
 	{
 		"title": "NSF FY 2013 Agency Financial Report (AFR)",
 		"description": "Provides financial management and program performance in"format"ion for FY 2013 to demonstrate accountability to our stakeholders and the American public. The AFR focuses on financial management and accountability.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"financial management",
@@ -1238,7 +1238,7 @@
 		{
 		"title": "NSF FY 2013 Program Inventory",
 		"description": "Describes NSF programs and strategic objectives.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"accountability",
@@ -1265,7 +1265,7 @@
 	{
 		"title": "NSF FY 2012 Performance and Financial Highlights",
 		"description": "One of the reports prepared by NSF to demonstrate the agency's accountability to stakeholders and the American public, this report summarizes key performance and financial in"format"ion for FY2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"performance",
@@ -1292,7 +1292,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2000",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2000.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1319,7 +1319,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2001",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2001.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1346,7 +1346,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2002",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2002.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1373,7 +1373,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2003",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2003.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1400,7 +1400,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2004",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2004.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1427,7 +1427,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2005",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2005.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1454,7 +1454,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2006",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2006.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1481,7 +1481,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2007",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2007.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1508,7 +1508,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2008",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2008.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1535,7 +1535,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2009",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2009.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1562,7 +1562,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2010",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2010.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1589,7 +1589,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2011",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2011.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1616,7 +1616,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2012",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1643,7 +1643,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2013",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2013.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1670,7 +1670,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Award Recipients, 2014",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP award recipients for 2014.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1697,7 +1697,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2000",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2000.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1724,7 +1724,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2001",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2001.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1751,7 +1751,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2002",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2002.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1778,7 +1778,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2003",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2003.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1805,7 +1805,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2004",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2004.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1832,7 +1832,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2005",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2005.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1859,7 +1859,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2006",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2006.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1886,7 +1886,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2007",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2007.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1913,7 +1913,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2008",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2008.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1940,7 +1940,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2009",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2009.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1967,7 +1967,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2010",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2010.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -1994,7 +1994,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2011",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2011.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -2021,7 +2021,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2012",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -2048,7 +2048,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2013",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -2075,7 +2075,7 @@
 	{
 		"title": "NSF Graduate Research Fellowship Program Honorable Mention Recipients, 2014",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This dataset includes GRFP Honorable Mention recipients for 2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"graduate research fellowship program",
@@ -2102,7 +2102,7 @@
 	{
 		"title": "NSF Key Science and Engineering Indicators: Digest 2010",
 		"description": "This 2010 digest of key S&E indicators draws from the National Science Board's Science and Engineering Indicators report. The digest serves to draw attention to important trends and data points from across Indicators and to introduce readers to the data resources available in the report.",
-		"tkeyword": [
+		"keyword": [
 		"science",
 		"engineering",
 		"indicators",
@@ -2137,7 +2137,7 @@
 	{
 		"title": "NSF Key Science and Engineering Indicators: Digest 2012",
 		"description": "This 2012 digest of key S&E indicators is an interactive tool that draws from the National Science Board's (NSB's) Science and Engineering Indicators report. The digest serves to draw attention to important trends and data points from across Indicators and to introduce readers to the data resources available in the report.",
-		"tkeyword": [
+		"keyword": [
 		"science",
 		"engineering",
 		"indicators",
@@ -2172,7 +2172,7 @@
 	{
 		"title": "NSF Motor Vehicle Management",
 		"description": "NSF executive fleet vehicle disclosure.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"fleet",
@@ -2198,7 +2198,7 @@
 	{
 		"title": "NSF Obligations for Top 200 Institutions by Fiscal Year",
 		"description": "An text/xml file containing FY 2001 through FY 2013 National Science Foundation (NSF) obligations by institution for the top 200 recipients defined in terms of total NSF funding received in the fiscal year.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -2230,7 +2230,7 @@
 	{
 		"title": "NSF Open Government Directive Plan",
 		"description": "The plan serves as the roadmap for NSF's plans to improve transparency, better integrate public participation and collaboration into the core mission, and become more innovative and efficient.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"open government"
@@ -2255,7 +2255,7 @@
 	{
 		"title": "NSF Performance Data for Major IT Investments",
 		"description": "The purpose of the Dashboard is to provide in"format"ion on the effectiveness of government IT programs and to support decisions regarding the investment and management of resources. The Dashboard is now being used by the Administration and Congress to make budget and policy decisions.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"investment",
@@ -2282,7 +2282,7 @@
 	{
 		"title": "NSF Report on Women, Minorities, and Persons with Disabilities in Science and Engineering",
 		"description": "Women, Minorities, and Persons with Disabilities in Science and Engineering provides statistical in"format"ion about the participation of women, minorities, and persons with disabilities in science and engineering education and employment.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"statistics",
@@ -2310,7 +2310,7 @@
 	{
 		"title": "NSF Reports to Congress",
 		"description": "This web page provides links to agency reports to Congress required by statute.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"congress",
@@ -2336,7 +2336,7 @@
 	{
 		"title": "NSF Research Grant Funding Rate History",
 		"description": "An text/xml file containing FY 2001 - FY 2013 National Science Foundation (NSF) funding rates for competitive research proposals by organizational unit. The funding rate is calculated by dividing the number of awards by the number of awards and declines.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -2368,7 +2368,7 @@
 	{
 		"title": "NSF Research Grant Funding Rates: Current Year",
 		"description": "An text/xml file containing FY 2013 NSF funding rates for competitive research proposals by organizational unit. The funding rate is calculated by dividing the number of awards by the number of awards and declines.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -2400,7 +2400,7 @@
 	{
 		"title": "NSF Research Spending and Results",
 		"description": "Research Spending & Results gives the public, the scientific community, and Congress insight into federally funded research. Research Spending & Results provides in"format"ion about how federal research dollars are being spent, what research is being performed, and how the outcomes of research are benefiting society as a whole. Anyone can easily access, search, and sort in"format"ion in new ways through Research.gov. Currently, in"format"ion is available for NSF and NASA awards.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"nsf",
@@ -2429,7 +2429,7 @@
 	{
 		"title": "NSF Review of Web Measurement and Customization Technologies",
 		"description": "NSF is required to review its use of web measurement and customization technologies annually to ensure compliance with all laws, regulations, and OMB guidance.",
-		"tkeyword": [
+		"keyword": [
 		"NSF",
 		"web",
 		"technology"
@@ -2454,7 +2454,7 @@
 	{
 		"title": "NSF Science and Engineering Indicators: 2012",
 		"description": "Science and Engineering Indicators (SEI) comprises quantitative data on the U.S. and international science and engineering enterprise. The "indicators" are quantitative representations that provide summary in"format"ion on the scope, quality, and vitality of science and engineering. SEI employs a variety of presentation styles including tables, figures, narrative text, bulleted text, Web-based links, highlights, introductions, conclusions, reference list to make the data accessible to readers with different in"format"ion needs and in"format"ion-processing preferences. SEI's 8 chapters cover the following subjects: 1) Elementary and Secondary Mathematics and Science Education 2) Higher Education in Science and Engineering 3) Science and Engineering Labor Force 4) Research and Development: National Trends and International Comparisons 5) Academic Research and Development 6) Industry, Technology, and the Global Marketplace 7) Science and Technology: Public Attitudes and Understanding 8) State Indicators SEI is prepared by the National Science Foundation's National Center for Science and Engineering Statistics (NCSES) under the guidance of the National Science Board (Board). It is subject to extensive review by outside experts, interested federal agencies, Board members, and NSF internal reviewers for accuracy, coverage, and balance.",
-		"tkeyword": [
+		"keyword": [
 		"science",
 		"engineering",
 		"indicators",
@@ -2489,7 +2489,7 @@
 	{
 		"title": "NSF Science and Engineering Indicators: 2014",
 		"description": "Science and Engineering Indicators (SEI) comprises quantitative data on the U.S. and international science and engineering enterprise. The "indicators" are quantitative representations that provide summary in"format"ion on the scope, quality, and vitality of science and engineering. SEI employs a variety of presentation styles including tables, figures, narrative text, bulleted text, Web-based links, highlights, introductions, conclusions, reference list to make the data accessible to readers with different in"format"ion needs and in"format"ion-processing preferences. SEI's 8 chapters cover the following subjects: 1) Elementary and Secondary Mathematics and Science Education 2) Higher Education in Science and Engineering 3) Science and Engineering Labor Force 4) Research and Development: National Trends and International Comparisons 5) Academic Research and Development 6) Industry, Technology, and the Global Marketplace 7) Science and Technology: Public Attitudes and Understanding 8) State Indicators. SEI is prepared by the National Science Foundation's National Center for Science and Engineering Statistics (NCSES) under the guidance of the National Science Board (Board). It is subject to extensive review by outside experts, interested federal agencies, Board members, and NSF internal reviewers for accuracy, coverage, and balance.",
-		"tkeyword": [
+		"keyword": [
 		"science",
 		"engineering",
 		"indicators",
@@ -2524,7 +2524,7 @@
 	{
 		"title": "NSF Science and Engineering Indicators: 2014 State Data Tool",
 		"description": "The State Data Tool draws from the National Science Board's (NSB's) Science and Engineering Indicators report. This tool allows for interactive visual exploration of 58 state indicators covering the role of science and technology (S&T) in state and regional economic development. It covers state trends in S&T education, the employed workforce, finance, and research and development. The tool allows for in-depth exploration of a single indicator, comparisons of multiple indicators, and the ability to customize the graphics. Exploring a single indicator can be done using Tables, Chart or Map view. Comparisons of indicators can be done across states or across years. The tool contains up to 20 years of data when data are available and comparable.",
-		"tkeyword": [
+		"keyword": [
 		"science",
 		"engineering",
 		"indicators",
@@ -2560,7 +2560,7 @@
 		"title": "NSF Speeches by the Director and Deputy Director",
 		"description": "Recent speeches by the NSF Director and Deputy Director - http://www.nsf.gov/news/speeches/
 		 Speech Archives (older speeches, as well as speeches by former Directors and Deputy Directors) - http://www.nsf.gov/news/speeches/speech_archives.jsp",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"director",
@@ -2587,7 +2587,7 @@
 	{
 		"title": "NSF Spending Data",
 		"description": "Agency spending in"format"ion from USAspending.gov",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"spending",
@@ -2614,7 +2614,7 @@
 		"title": "NSF Spending Under the American Recovery and Reinvestment Act of 2009",
 		"description": "Recovery.gov is the U.S. government's official website that provides easy access to data 
 		related to Recovery Act spending and allows for the reporting of potential fraud, waste, and abuse.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"recovery act",
@@ -2640,7 +2640,7 @@
 	{
 		"title": "NSF Staff Directory",
 		"description": "Locate staff by searching or browsing staff and offices",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"staff",
@@ -2666,7 +2666,7 @@
 	{
 		"title": "NSF State Obligations by Fiscal Year",
 		"description": "An text/xml file containing FY 2001 through FY 2013 National Science Foundation (NSF) obligations by state and account.",
-		"tkeyword": [
+		"keyword": [
 		"science and engineering",
 		"research and education",
 		"national science foundation",
@@ -2698,7 +2698,7 @@
 	{
 		"title": "NSF Strategic Plan for Fiscal Years (FY) 2014-2018",
 		"description": "The NSF Strategic Plan for Fiscal Years (FY) 2014-2018 sets the Foundation's direction for the next five years.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"strategic plan"
@@ -2723,7 +2723,7 @@
 	{
 		"title": "NSF Survey of Doctoral Recipients",
 		"description": "The Survey of Doctorate Recipients is a longitudinal biennial survey conducted since 1973 that provides demographic and career history in"format"ion about individuals with a research doctoral degree in a science, engineering, or health (SEH) field from a U.S. academic institution. The survey follows a sample of individuals with SEH doctorates throughout their careers from the year of their degree award until age 76.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"statistics",
@@ -2753,7 +2753,7 @@
 	{
 		"title": "NSF Testimony Before Congressional Hearings",
 		"description": "NSF Staff Testimony - Current Congress and Previous Congresses, and NSB Testimony.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"testimony",
@@ -2781,7 +2781,7 @@
 	{
 		"title": "SESTAT",
 		"description": "National Survey of College Graduates (NSCG), National Survey of Recent College Graduates (NSRCG), Survey of Doctorate Recipients (SDR)",
-		"tkeyword": [
+		"keyword": [
 		"us",
 		"united states",
 		"science and engineering",
@@ -2813,7 +2813,7 @@
 	{
 		"title": "WebCASPAR",
 		"description": "The WebCASPAR database provides easy access to a large body of statistical data resources for science and engineering (S&E) at U.S. academic institutions. WebCASPAR emphasizes S&E, but its data resources also provide in"format"ion on non-S&E fields and higher education in general.",
-		"tkeyword": [
+		"keyword": [
 		"nsf",
 		"national science foundation",
 		"statistics",
@@ -2841,7 +2841,7 @@
 	{
 		"title": "NSF Science and Engineering State Profiles",
 		"description": "The National Center for Science and Engineering Statistics (NCSES) of the National Science Foundation (NSF) periodically releases updates to its Science and Engineering State Profiles. Science and Engineering State Profiles allows users to generate science and engineering (S&E) profiles that summarize state-specific data on personnel and finances. The State Profiles data tool can display a single state's profile or a profile containing up to 10 states.",
-		"tkeyword": [
+		"keyword": [
 		"science,engineering,indicators,statistics,nsf,national science foundation,nsb,national science board,ncses,federal"
 		],
 		"modified": "2013-08-01",
@@ -2865,7 +2865,7 @@
 	{
 		"title": "NSF Business Research and Development and Innovation Survey",
 		"description": "The Business Research and Development and Innovation Survey, successor to the Survey of Industrial Research and Development, is the primary source of in"format"ion on research and development performed or funded by businesses within the United States from 2008-2010. The survey is conducted by the Census Bureau in accordance with an interagency agreement with the National Center for Science and Engineering Statistics. Results are used to assess trends in the performance and funding of business R&D. The annual survey examines a nationally representative sample of companies in manufacturing and nonmanufacturing industries.",
-		"tkeyword": [
+		"keyword": [
 		"brdis,nsf,surveyresearch, development,r&d,science,engineering,census"
 		],
 		"modified": "2014-08-01",
@@ -2888,7 +2888,7 @@
 	{
 		"title": "NSF Industrial Research and Development In"format"ion System (IRIS)",
 		"description": "This database holds all of the statistics produced by the National Science Foundation's Survey of Industry Research and Development (SIRD) for 1953 to 2007, the last year SIRD was conducted. It has been replaced by the Business Research and Development and Innovation Survey (BRDIS), which expands NSF's coverage of business R&D and innovation activities. IRIS data prior to 1999 are based on Standard Industrial Classification (SIC) and pre-SIC codes. Beginning with the 1999 survey, estimates are based on the North American Industrial Classification System (NAICS).",
-		"tkeyword": [
+		"keyword": [
 		"brdis,iris,nsf,survey,research,development,r&d,science,engineering,industrial"
 		],
 		"modified": "2011-07-01",
@@ -2911,7 +2911,7 @@
 	{
 		"title": "NSF In"format"ion Widget",
 		"description": "The NSF In"format"ion Widget provides Mac users with easy access to the latest NSF releases for News, Discoveries, Funding Opportunities and Publications.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,news,discoveries,funding,publications,mac,widget"
 		],
 		"modified": "P1W",
@@ -2934,7 +2934,7 @@
 	{
 		"title": "NSF Facebook",
 		"description": "NSF's Facebook page allows the agency to connect with others interested in science and engineering, and to engage in dialogue with the public about NSF’s activities.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,facebook,social"
 		],
 		"modified": "P1W",
@@ -2957,7 +2957,7 @@
 	{
 		"title": "NSF YouTube",
 		"description": "NSF's YouTube site provides science-themed videos are available for viewing and comment.",
-		"tkeyword": [
+		"keyword": [
 		"youtube,nsf,video,science"
 		],
 		"modified": "P2W",
@@ -2980,7 +2980,7 @@
 	{
 		"title": "NSF Flickr",
 		"description": "NSF's Flickr makes available research and education photos and illustrations for others to use to illustrate science and engineering topics.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,photos,photography,science,engineering,research,education"
 		],
 		"modified": "P2W",
@@ -3003,7 +3003,7 @@
 	{
 		"title": "NSF LinkedIn",
 		"description": "NSF's organizational LinkedIn account posts links to job vacancies and other science and engineering topics.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,linkedin,job,vacancies,employment,career"
 		],
 		"modified": "P1W",
@@ -3026,7 +3026,7 @@
 	{
 		"title": "NSF Discovery Files podcast",
 		"description": "The Discovery Files podcast covers projects funded by the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,podcast,discovery,discoveries,research"
 		],
 		"modified": "P1W",
@@ -3049,7 +3049,7 @@
 	{
 		"title": "NSF Discoveries RSS feed",
 		"description": "NSF's Discoveries RSS feed provides in"format"ion on the results of NSF's public investment in science, engineering, education and technology. Read here about the Internet, microbursts, Web browsers, extrasolar planets, and more... a panoply of discoveries and innovations that began with NSF support.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,rss,discovery,discoveries,research,news"
 		],
 		"modified": "P1W",
@@ -3072,7 +3072,7 @@
 	{
 		"title": "NSF Events RSS feed",
 		"description": "A calendar of upcoming events for the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,calendar,events,rss"
 		],
 		"modified": "P1W",
@@ -3095,7 +3095,7 @@
 	{
 		"title": "NSF Funding Announcements RSS feed",
 		"description": "An RSS feed containing funding announcements plus links to documents and related in"format"ion for NSF's scientific, engineering, and research programs.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,funding,program,in"format"ion,rss"
 		],
 		"modified": "P1W",
@@ -3118,7 +3118,7 @@
 	{
 		"title": "NSF Upcoming Due Dates RSS feed",
 		"description": "An RSS feed containing upcoming due dates for NSF funding opportunties.",
-		"tkeyword": [
+		"keyword": [
 		"nsf, funding,program,rss"
 		],
 		"modified": "P1W",
@@ -3141,7 +3141,7 @@
 	{
 		"title": "NSF Images and Video RSS feed",
 		"description": "An RSS feed containing links to multimedia files, including images and video, related to the National Science Foundation and its mission.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,rss,multimedia,images,video"
 		],
 		"modified": "P1W",
@@ -3164,7 +3164,7 @@
 	{
 		"title": "NSF News RSS feed",
 		"description": "An RSS feed that provides news and updates on areas related to NSF's research and mission.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,rss,news,science"
 		],
 		"modified": "P1W",
@@ -3187,7 +3187,7 @@
 	{
 		"title": "NSF Publications RSS feed",
 		"description": "An RSS feed that provides a listing of recent publications from NSF.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,rss,publications"
 		],
 		"modified": "P1W",
@@ -3210,7 +3210,7 @@
 	{
 		"title": "NSF Statistics on U.S. Science and Engineering Resources RSS feed",
 		"description": "An RSS feed that includes recent publications and in"format"ion releases from NSF's National Center for Science and Engineering Statistics (NCSES).",
-		"tkeyword": [
+		"keyword": [
 		"nsf,ncses,statistics,publications,Science,engineering,rss"
 		],
 		"modified": "P1M",
@@ -3233,7 +3233,7 @@
 	{
 		"title": "NSF Vacancies (All Positions) RSS feed",
 		"description": "An RSS feed that includes all open vacancies at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss"
 		],
 		"modified": "P1W",
@@ -3256,7 +3256,7 @@
 	{
 		"title": "NSF Vacancies (Administrative) RSS feed",
 		"description": "An RSS feed that includes all open vacancies for Administrative positions at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss,administrative"
 		],
 		"modified": "P1W",
@@ -3279,7 +3279,7 @@
 	{
 		"title": "NSF Vacancies (Clerical and Technical) RSS feed",
 		"description": "An RSS feed that includes all open vacancies for Clerical and Technical positions at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss,clerical,technical"
 		],
 		"modified": "P1W",
@@ -3302,7 +3302,7 @@
 	{
 		"title": "NSF Vacancies (Executive) RSS feed",
 		"description": "An RSS feed that includes all open vacancies for Executive positions at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss,executive"
 		],
 		"modified": "P1W",
@@ -3325,7 +3325,7 @@
 	{
 		"title": "NSF Vacancies (Scientific and Professional) RSS feed",
 		"description": "An RSS feed that includes all open vacancies for Scientific and Professional positions at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss,scientific,professional"
 		],
 		"modified": "P1W",
@@ -3348,7 +3348,7 @@
 	{
 		"title": "NSF Vacancies (Special Emphasis Programs) RSS feed",
 		"description": "An RSS feed that includes all open vacancies for Special Emphasis Programs at the National Science Foundation.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,career,vacancies,job openings,rss,special emphasis programs"
 		],
 		"modified": "P1W",
@@ -3371,7 +3371,7 @@
 	{
 		"title": "NSF Funding Rate History Web API",
 		"description": "This web API contains FY 2001-FY 2011 NSF funding rates for competitive research proposals by organizational unit. The funding rate is calculated by dividing the number of awards by the number of awards and declines.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,funding, research,api"
 		],
 		"modified": "2012-08-01",
@@ -3394,7 +3394,7 @@
 	{
 		"title": "NSF GRFP Awardees and Honorable Mentions Web API",
 		"description": "NSF's Graduate Research Fellowship Program (GRFP) provides three years of support for graduate study leading to research-based masters or doctoral degrees in disciplines relevant to the mission of the Foundation. This web API provides access to in"format"ion on GRFP Awardees and Honorable Mention recipients for 2000 to 2012.",
-		"tkeyword": [
+		"keyword": [
 		"nsf,grfp,graduate,api"
 		],
 		"modified": "2012-08-01",
