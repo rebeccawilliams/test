@@ -34,7 +34,7 @@
 	},
 	{
 		"title": "NSF Award Search Web API",
-		"description": "The NSF Award Search web API provides a web API interface to the Research.gov's Research Spending and Results data, which provides NSF research award in"format"ion from 2007.",
+		"description": "The NSF Award Search web API provides a web API interface to the Research.gov's Research Spending and Results data, which provides NSF research award information from 2007.",
 		"keyword": [
 		"science and engineering",
 		"research and education",
