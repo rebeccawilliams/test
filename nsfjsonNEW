@@ -30,7 +30,7 @@
 		"format": "text/xml",
 		"spatial": "N/A",
 		"temporal": "2013",
-		dataDictionary: "http://dellweb.bfa.nsf.gov/text/xml/AverageDwellTimeDataDictionary.pdf"
+		"dataDictionary": "http://dellweb.bfa.nsf.gov/text/xml/AverageDwellTime"dataDictionary".pdf"
 	},
 	{
 		"title": "NSF Award Search Web API",
